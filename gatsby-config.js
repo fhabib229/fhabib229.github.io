@@ -7,7 +7,7 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Hello Friend`,
+    title: `Faris Habib - Full Stack Software Engineer`,
     description: `A simple starter for Gatsby. That's it.`,
     copyrights: '',
     author: `@panr`,
@@ -15,7 +15,7 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'hello friend',
+    logoText: 'hello world',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 2,
@@ -114,13 +114,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `gatsby-starter-hello-friend`,
-        short_name: `hello-friend`,
+        name: `fhabib229-portfolio`,
+        short_name: `portfolio`,
         start_url: `/`,
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
-        icon: `src/images/hello-icon.png`,
+        icon: `src/images/samurai.png`,
       },
     },
   ],
