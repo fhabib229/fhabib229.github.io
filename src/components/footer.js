@@ -15,7 +15,7 @@ const Footer = ({ copyrights }) => (
           © 2019 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
         </span>
         <span className="footerCopyrights">
-          Starter created by <a href="https://radoslawkoziel.pl">panr</a>
+          Site created by <a href="https://github.com/fhabib229/portfolio">Faris Habib</a>
         </span>
       </>
     )}

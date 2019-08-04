@@ -10,7 +10,7 @@ module.exports = {
     title: `Faris Habib - Full Stack Software Engineer`,
     description: `A simple starter for Gatsby. That's it.`,
     copyrights: '',
-    author: `@panr`,
+    author: `@fhabib229`,
     logo: {
       src: '',
       alt: '',
