@@ -1,23 +1,19 @@
 ---
-title: "About"
-date: "2018-07-19"
-author: "Radek"
+title: "About Me"
+date: "2019-08-04"
+author: "Faris Habib"
 path: "/about"
 ---
 
 ## Hi there
 
-My name is Radek and I'm the author of this starter. I made it to help you present your ideas easier.
+My name is Faris Habib.
+I've recently completed a 9 month, intense, software engineering immersive with Hack Reactor, based in San Francisco.
 
-We all know how hard is to start something on the web, especially these days. You need to prepare a bunch of stuff, configure them and when that’s done — create the content.
+I love the process of solving problems by embracing innovation. When components come together and an application begins to take shape, seeing the product take huge leaps forward is a thrill.
 
-This starter is pretty basic and covers all of the essentials. All you have to do is start typing!
+Currently I live in Seattle, Washington, a city where there are never too many mountains to explore. In the fall I'm planning to move down to Los Angeles, California.
 
-The starter includes:
+In my free time I enjoy reading, backpacking, gaming, weightlifting, concerts, and watching corny adventure movies.
 
-- **light/dark mode**, depending on your preferences
-- great reading experience thanks to [**Inter UI font**](https://rsms.me/inter/), made by [Rasmus Andersson](https://rsms.me/about/)
-- nice code highlighting thanks to [**PrismJS**](https://prismjs.com)
-- responsive youtube/vimeo etc. videos thanks to [**gatsby-remark-embed-video**](https://github.com/borgfriend/gatsby-remark-embed-video)
-
-So, there you have it... enjoy!
+`youtube: playlist?list=PLz5Br5oLnr4yGR81VqKEC7avCgIIt2Fh2`

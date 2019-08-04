@@ -1,89 +1,82 @@
 ---
-title: "Showcase"
-date: "2018-07-17"
-author: "Hello Robot"
+title: "Portfolio"
+date: "2019-08-04"
+author: "Faris Habib"
 path: "/showcase"
 ---
 
-## Header 2
+# Applications
 
-Backup two-step verification breach, anonymous terminal traffic worm virus reboot fsociety dat file. Traffic fsociety malware 100 terabytes system hack, delete brute-force cyber security fiber connection connect code worm wipe. Cyber security off the grid delete IP decrypt, **nodes connect password 100 terabytes RUDY attack malicious code** rootkit gigabit speed. Tor connect network, intercepting traffic off the grid IP protocol password.
+---
 
-> Backup DDoS attack rootkit nodes disconnect website. Two-step verification Tor anonymous nodes, 100 terabytes fiber connection wipe cyber security IRC code wipe all the data fsociety virus compromised DDoS attack. Sys admin data center gigabit speed breach, worm DDoS attack AFK nodes.
+## Mtn Maps
 
-### Header 3
+[![Mtn Maps](../images/mtn-maps-sample.png?raw=true "Mtn Maps Trail Markers & Popup Info")]()
 
-Brute-force intercepting traffic fiber connection system boot up fsociety reboot AFK sys admin. Reboot website Tor, intercepting traffic `100 terabytes gigabit speed breach connect IRC nodes` system operating system dat file compromised boot up. Data center decrypt password network disconnect. Anonymous emails cyber security Wi-Fi IRC protocol DDoS attack rootkit system files, data dump website operating system wipe connect.
+<i>Mtn Maps allows you to input an address and locate the nearest hiking trails in the area.
+When the markers are rendered information about the closest trails can be seen with links to more info such as trip reports.</i>
 
-```css
-/* PostCSS code by PrismJS */
 
-pre {
-  background: #1a1a1d;
-  padding: 20px;
-  border-radius: 8px;
-  font-size: 1rem;
-  overflow: auto;
+#### Features include:
 
-  @media (--phone) {
-    white-space: pre-wrap;
-    word-wrap: break-word;
-  }
+  - Web mapping interface w/ MapBox API & MERN stack for intuitive experience
 
-  code {
-    background: none !important;
-    color: #ccc;
-    padding: 0;
-    font-size: inherit;
+  - Geocoder in the search bar, so trails can be located from any address inputted
 
-    .dark-theme & {
-      color: inherit;
-    }
-  }
-}
-```
+  - Trail gain, elevation, rating, and trip reports
 
-```js
-// JS code by PrismJS
+  - Deployed to EC2 on AWS for future scalability enhancements
 
-const menuTrigger = document.querySelector('.menu-trigger')
-const menu = document.querySelector('.menu')
-const mobileQuery = getComputedStyle(document.body).getPropertyValue('--phoneWidth')
-const isMobile = () => window.matchMedia(mobileQuery).matches
-const isMobileMenu = () => {
-  menuTrigger.classList.toggle('hidden', !isMobile())
-  menu.classList.toggle('hidden', isMobile())
-}
 
-isMobileMenu()
+## Cryptocurrency Price Tracker
 
-menuTrigger.addEventListener('click', () => menu.classList.toggle('hidden'))
+[![Crypto App](../images/crypto-sample.png?raw=true "Price Info. Click to view app.")](https://damp-temple-98185.herokuapp.com/)
 
-window.addEventListener('resize', isMobileMenu)
-```
+<i>A cryptocurrency app that charts Bitcoin's price over the last 3 months. Additional features include pricing information for the top 100 cryptocurrencies.</i>
 
-```html
-<section id="main">
-  <div>
-   <h1 id="title">{{ .Title }}</h1>
-    {{ range .Pages }}
-        {{ .Render "summary"}}
-    {{ end }}
-  </div>
-</section>
-```
+#### Features include:
 
-#### Header 4
+  - Retrieves, selects and organizes cryptocurrency pricing data using CoinCap API
 
-Traffic RUDY attack nodes anonymous IP network code two-step verification system files data center bonsoir terminal. Exit nodes website code, RUDY attack password off the grid offline malware delete. Cyber security network exit nodes backup two-step verification gigabit speed DDoS attack.
+  - View pricing information on the top 100 cryptocurrencies in the market
 
-- Fsociety delete malicious code nodes.
-- IP cyber security wipe all the data sys admin virus compromised dat file malicious code computer.
-- Decrypt two-step verification Tor wipe, password cyber security data dump malicious code dat file routing protocol operating system.
-- Anonymous boot up website AFK.
-  - Timing out IP DNS, log file offline terminal brute-force system files connect server farm.
-  - Reboot sys admin worm log file wipe.
+  - Data rendered in React components, Chart.js graphs and Semantic UI tables
 
-`youtube: xIBiJ_SzJTA`
+  - Heavy emphasis on visual aesthetics for client using Semantic UI, React, and Styled-Components
 
-Tor boot up backup anonymous bonsoir IRC website. Password nodes two-step verification, connect data center system files bonsoir data dump terminal AFK 100 terabytes sys admin breach dat file. Protocol backup exit nodes fiber connection, operating system log file virus Tor offline. Password data center two-step verification disconnect IRC terminal. Tor IRC cyber security AFK protocol traffic disconnect. Code exit nodes IRC cyber security nodes worm.
+  - Deployed to Heroku for simple viewing
+
+
+## Twitch.tv
+
+[![Twitch](../images/fec-sample.png?raw=true "Twitch Sample")]()
+
+<i>An application that mirrors Twitch.tv, a popular video and streaming website.
+Main emphasis is on overall design and rendering of main features including streamer videos, chat, carousel, and profile services</i>
+
+#### Features include:
+
+  - View streamer videos from collection of over 100 streams
+
+  - Emphasis on overall design and layout with React & Styled-Components
+
+  - Modular back end deployed with AWS for future scalability enhancements
+
+  - Option to follow streamers
+
+
+## ESPN
+
+[![ESPN](../images/sdc-sample.png?raw=true "ESPN Sample")]()
+
+<i>An application that mirrors ESPN NFL team page of the Los Angeles Rams, scaled to accept over 40 million game records.
+Displays team standings with divisional W-L-T record, percentage, as well as the points scored and points given up. </i>
+
+
+#### Features include:
+
+  - Redesigned database in PostgreSQL and Cassandra to accept over 40 million records in under 15 minutes
+
+  - Deployed service in Docker containers to AWS EC2 for horizontal scaling
+
+  - Achieves 10,000 RPS with less than 2000ms latency after stress-testing with New Relic & Loader.io
