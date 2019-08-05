@@ -37,6 +37,10 @@ module.exports = {
         title: 'System Design Engineering Journal',
         path: '/sdc-engineering-journal',
       },
+      {
+        title: 'Front End Capstone Review',
+        path: '/fecconvo',
+      },
     ],
   },
   plugins: [

@@ -4,6 +4,7 @@ date: "2019-04-30"
 path: "/sdc-engineering-journal"
 author: "Faris Habib"
 excerpt: "Engineering Journal for the System Design Capstone Project."
+tags: ["sdc", "system design capstone", "blogs"]
 ---
 
 # System Design Capstone Engineering Journal
