@@ -10,7 +10,7 @@ Faris Habib
 
    <b>Email:</b> faris.habib@protonmail.ch<br>
    <b>Phone:</b> 206-954-4609<br>
-   [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Github](https://github.com/fhabib229) || [Downloadable Resume]()
+   [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Github](https://github.com/fhabib229) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH+Resume+August+2019.pdf)
 
 ----
 
