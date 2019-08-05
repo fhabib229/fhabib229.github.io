@@ -6,6 +6,7 @@ const cssnano = require('cssnano')
 const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
+  pathPrefix: '/fhabib229.github.io',
   siteMetadata: {
     title: `Faris Habib - Full Stack Software Engineer`,
     description: `Faris Habib portfolio website`,
