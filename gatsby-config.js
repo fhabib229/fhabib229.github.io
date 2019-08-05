@@ -138,7 +138,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-s3`,
       options: {
-        bucketName: 'frshbb.tech',
+        bucketName: 'frshbb.com',
       },
     },
   ],
