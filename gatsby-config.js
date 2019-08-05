@@ -139,6 +139,8 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         bucketName: 'frshbb.com',
+        protocol: 'https',
+        hostname: 'frshbb.com',
       },
     },
   ],
