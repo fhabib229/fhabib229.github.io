@@ -41,6 +41,10 @@ module.exports = {
         title: 'Front End Capstone Review',
         path: '/fecconvo',
       },
+      {
+        title: 'SDC: Choosing a Database',
+        path: '/sdc-choosing-db',
+      },
     ],
   },
   plugins: [
