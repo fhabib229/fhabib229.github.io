@@ -2,8 +2,9 @@
 title: "SDC: Choosing a Database"
 date: "2019-03-17"
 path: "/sdc-choosing-db"
+coverImage: "../images/sdc/images/sdc-choosing-db.jpg"
 author: "Faris Habib"
-excerpt: "Entry on choosing a final database for the SDC project."
+excerpt: "Choosing a primary database for SDC."
 tags: ["sdc", "system design capstone", "blogs"]
 ---
 
