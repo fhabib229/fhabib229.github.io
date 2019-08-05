@@ -8,7 +8,7 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   siteMetadata: {
     title: `Faris Habib - Full Stack Software Engineer`,
-    description: `My first portfolio website`,
+    description: `Faris Habib portfolio website`,
     copyrights: '',
     author: `@fhabib229`,
     logo: {
@@ -18,7 +18,7 @@ module.exports = {
     logoText: 'hello world',
     defaultTheme: 'dark',
     postsPerPage: 5,
-    showMenuItems: 2,
+    showMenuItems: 3,
     menuMoreText: 'Show more',
     mainMenu: [
       {
@@ -26,12 +26,16 @@ module.exports = {
         path: '/about',
       },
       {
-        title: 'Showcase',
+        title: 'Resume',
+        path: '/resume',
+      },
+      {
+        title: 'Portfolio',
         path: '/showcase',
       },
       {
-        title: 'Example',
-        path: '/example',
+        title: 'System Design Engineering Journal',
+        path: '/sdc-engineering-journal',
       },
     ],
   },

@@ -3,6 +3,7 @@ title: "About Me"
 date: "2019-08-04"
 author: "Faris Habib"
 path: "/about"
+tags: ["hello"]
 ---
 
 ## Hi there
