@@ -135,5 +135,11 @@ module.exports = {
         icon: `src/images/samurai.png`,
       },
     },
+    {
+      resolve: `gatsby-plugin-s3`,
+      options: {
+        bucketName: 'frshbb.tech',
+      },
+    },
   ],
 }
