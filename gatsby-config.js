@@ -19,7 +19,7 @@ module.exports = {
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 3,
-    menuMoreText: 'Show more',
+    menuMoreText: 'Blogs',
     mainMenu: [
       {
         title: 'About',
