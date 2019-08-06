@@ -46,7 +46,7 @@ Applications
 Technologies Used:
 <i>React, Express, Node.js, MongoDB, React-Map-Gl, React-Mapbox-Gl-Geocoder, Styled-Components, Webpack, Babel, AWS EC2</i>
 
-**CryptoCurrency Price Tracker**, *Front End Engineer*<br>
+**Cryptocurrency Price Tracker**, *Front End Engineer*<br>
 <i>Tracks pricing information for the top 100 cryptocurrencies</i>
 
 * Curated Bitcoin’s last 3 month price history using Chart.js for graph rendering

@@ -12,19 +12,17 @@ tags: ["sdc", "system design capstone", "blogs"]
 
 ## Entries
 
-1. [February 4th, 2019](#1)
-2. [February 6th, 2019](#2)
-3. [February 11th, 2019](#3)
-4. [February 12th, 2019](#4)
-5. [February 16th, 2019](#5)
-6. [February 24th, 2019](#6)
-7. [March 3rd, 2019](#7)
-8. [March 14th, 2019](#8)
-9. [Choosing a Database](#databases)
+1. February 4th, 2019
+2. February 6th, 2019
+3. February 11th, 2019
+4. February 12th, 2019
+5. February 16th, 2019
+6. February 24th, 2019
+7. March 3rd, 2019
+8. March 14th, 2019
+9. Choosing a Database
 
 ---
-## 1
-
 ### February 4th, 2019
 
 **1. Choosing FEC Project and Service**
@@ -112,8 +110,6 @@ exports.seed = knex => knex('standings').del()
 - Work for generating 10 million records is for the most part done. Now I'll be conducting some benchmarking tests on the database before I start with my NoSQL Database.
 ---
 
-## 2
-
 ### February 6th, 2019
 
 **1. Initial Benchmarking of SQL Database**
@@ -131,8 +127,6 @@ exports.seed = knex => knex('standings').del()
   ![benchmark query][four]
 
 ---
-
-## 3
 
 ### February 11th, 2019
 
@@ -190,7 +184,6 @@ const startTime = new Date().getTime();
 - Although this method is crude, I was able to insert the required amount of data in less than 50 minutes. The next step will be to fine-tune Cassandra to see if I can reduce that time and make my seeding code look cleaner. I'll most likely deploy my PostgerSQL and Cassandra databases to AWS EC2 so that I can perform more tests to see which comes out faster. At this point it's about the same, PostgresSQL is only about 5 minutes faster (but the code is cleaner!).
 
 ---
-## 4
 
 ### February 12th, 2019
 
@@ -203,7 +196,6 @@ const startTime = new Date().getTime();
 - The next step is to deploy the primary database to AWS EC2, though as I mentioned yesterday, I'll be deploying both databases to EC2 to perform additional tests. Before I do that I'm going to try different methods of inserting 10m records with Postgres and Cassandra, specifically inserting the data with csv files. My team has reported quick speeds for this method so I'm looking forward to implementing it for my own service and performing additional tests to confirm this.
 
 ---
-## 5
 
 ### February 16th, 2019
 
@@ -218,7 +210,6 @@ const startTime = new Date().getTime();
 - The next step is to perform some simple csv insertions with my Postgres Database since this will be my primary database choice, then I'll deploy the database, service, and proxy server to EC2.
 
 ---
-## 6
 
 ### February 24th, 2019
 
@@ -275,7 +266,6 @@ const knex = require('knex')({
   ![ec2 10m records][thirteen]
 
 ---
-## 7
 
 ## March 3rd, 2019
 
@@ -326,7 +316,6 @@ at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1083:14)
 ```
 
 ---
-## 8
 
 ### March 14th, 2019
 
@@ -398,9 +387,7 @@ host  all  all 0.0.0.0/0 md5 // added to the end of the file
 
 ---
 
-## Databases
-
-**Choosing a Primary Database**
+### Choosing a Primary Database
 
 - When comparing my RDBMS (PostgreSQL) and NoSQL (Cassandra) choices for this project it was not clear which would serve my service well as my primary database. I conducted some research to compare the two databases and see where each had their strengths and where they fell short.
 
