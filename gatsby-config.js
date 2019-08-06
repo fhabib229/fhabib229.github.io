@@ -8,9 +8,10 @@ const postCSSMixins = require('postcss-mixins')
 module.exports = {
   siteMetadata: {
     title: `Faris Habib - Full Stack Software Engineer`,
-    description: `Faris Habib portfolio website`,
+    description: `Faris Habib portfolio website v1`,
     copyrights: '',
-    author: `@fhabib229`,
+    author: `Faris Habib`,
+    siteUrl: 'https://www.frshbb.com',
     logo: {
       src: '',
       alt: '',
@@ -50,6 +51,14 @@ module.exports = {
   plugins: [
     `babel-preset-gatsby`,
     `gatsby-plugin-react-helmet`,
+    `gatsby-plugin-sitemap`,
+    {
+      resolve: `gatsby-plugin-robots-txt`,
+      options: {
+        host: 'https://www.frshbb.com',
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    },
     {
       resolve: `gatsby-source-filesystem`,
       options: {
@@ -139,8 +148,6 @@ module.exports = {
       resolve: `gatsby-plugin-s3`,
       options: {
         bucketName: 'frshbb.com',
-        protocol: 'https',
-        hostname: 'frshbb.com',
       },
     },
   ],
