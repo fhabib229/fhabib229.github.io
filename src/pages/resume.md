@@ -28,7 +28,7 @@ Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.i
 
 **Deployment**:
 AWS (S3, EC2, ELB, RDS), Docker, Travis CI, Heroku
-a
+
 **Developer Tools**:
 Git, npm, yarn, Webpack, Babel, nginx
 
