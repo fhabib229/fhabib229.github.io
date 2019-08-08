@@ -20,7 +20,7 @@ module.exports = {
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 3,
-    menuMoreText: 'Blogs',
+    menuMoreText: 'Blog',
     mainMenu: [
       {
         title: 'About',
@@ -45,6 +45,10 @@ module.exports = {
       {
         title: 'SDC: Choosing a Database',
         path: '/sdc-choosing-db',
+      },
+      {
+        title: 'FEC: Video Log',
+        path: '/fec-videos',
       },
     ],
   },

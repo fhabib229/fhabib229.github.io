@@ -4,7 +4,7 @@ date: "2019-03-17"
 path: "/sdc-choosing-db"
 coverImage: "../images/sdc/images/sdc-choosing-db.jpg"
 author: "Faris Habib"
-excerpt: "Choosing a primary database for SDC."
+excerpt: "Choosing a primary database for SDC"
 tags: ["sdc", "system design capstone", "blogs"]
 ---
 
@@ -36,6 +36,10 @@ The ESPN application had 4 services to it:
 Since speed was about the same for both databases I did not consider speed to be an important differentiating factor in choosing my primary database. Next, In each case these services successfully render the relevant information to the page from the database, but do not contain any additional functionality for users to add new data to the page themselves. This means that the only way the application is able to receive data is from inserting records in the back end. What this meant for our database choice is that we do not have a write-heavy application, rather we have a read-intensive application. Based on this factor PostgreSQL could be better suited to be our primary database. Another factor to consider is the constraint of our deployment instance, a T2 micro. While PostgreSQL is able to handle a T2 micro instance just fine Cassandra usually needs a larger instance (at least a T2 small) for deployment. This would be an additional cost to the project and would not meet the constraint place upon us, adding another compelling reason for PostgreSQL as our primary database. Another factor to consider is the overall size of the service and the application. The standings service takes about 5GB total of space with 10 million records, the other services take about the same size. This puts the total number of space for our application at about 30GB, which is suitable for a single node. Cassandra shines best when multiple nodes are needed for an application or applications, but because our application is reduce to a single node we would not be utilizing Cassandra to its potential.
 
 In summary when considering size constraint of the deployment instance, primary application operation, and the size of the service and application overall it made sense to choose PostgreSQL as the primary database. With that being said, the question that one might ask is if we could have deployed our application with Cassandra, to which the answer would be yes, but not without sacrificing at least one of the constraint requirements for this project.
+
+---
+
+`youtube: watch?v=vnEO2DQInYU&feature=youtu.be`
 
 ---
 

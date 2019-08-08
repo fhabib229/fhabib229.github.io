@@ -4,7 +4,7 @@ date: "2019-01-09"
 coverImage: "../images/fec/fec-convo.png"
 path: "/fecconvo"
 author: "Faris Habib"
-excerpt: "Reviewing the Front End Capstone Project."
+excerpt: "Reflecting on the FEC project experience"
 tags: ["fec", "front end capstone", "blogs"]
 ---
 

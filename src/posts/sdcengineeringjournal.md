@@ -4,7 +4,7 @@ date: "2019-04-30"
 path: "/sdc-engineering-journal"
 coverImage: "../images/sdc/diagrams/sdc-standings-diagram-3.png"
 author: "Faris Habib"
-excerpt: "Engineering Journal for the System Design Capstone Project."
+excerpt: "Engineering Journal for the System Design Capstone Project"
 tags: ["sdc", "system design capstone", "blogs"]
 ---
 
