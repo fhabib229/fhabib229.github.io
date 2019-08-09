@@ -10,7 +10,7 @@ Faris Habib
 
    <b>Email:</b> faris.habib@protonmail.ch<br>
    <b>Phone:</b> 206-954-4609<br>
-   [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Github](https://github.com/fhabib229) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH+Resume+August+2019.pdf)
+   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH+Resume+August+2019.pdf)
 
 ----
 
@@ -18,7 +18,7 @@ Technical Skills
 ---------
 
 **Front End**:
-Javascript (ES5 & ES6), HTML5/CSS3, React, Backbone, Semantic UI, Bootstrap, Styled Components, Redux
+Javascript (ES5 & ES6), HTML5/CSS3, React, Redux, Backbone, Semantic UI, Bootstrap, Styled Components
 
 **Back End**:
 Node.js, Express, PostgreSQL, MySQL, SSMS, MongoDB, Cassandra, ASP.NET, RESTful API Development
@@ -30,10 +30,21 @@ Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.i
 AWS (S3, EC2, ELB, RDS), Docker, Travis CI, Heroku
 
 **Developer Tools**:
-Git, npm, yarn, Webpack, Babel, nginx
+Git, npm, Yarn, Webpack, Babel, Nginx
 
 Applications
 ---------
+
+**Cryptocurrency Price Tracker**, *Front End Engineer*<br>
+<i>Tracks pricing information for the top 100 cryptocurrencies</i>
+
+* Curated Bitcoin’s last 3 month price history using Chart.js for graph rendering
+* Displayed price, volume, market cap, supply, & change for top cryptocurrencies in the market using CoinCap API
+* Styled app w/ Styled Components & Semantic UI for modern look
+* Deployed service on Heroku for simple viewing
+
+Technologies Used:
+<i>React, Node.js, Express, Semantic UI, Styled-Components, Chart.js, Moment, Webpack, Heroku</i>
 
 **Mtn Maps**, *Full Stack Engineer*<br>
 <i>Locates the nearest hiking trails</i>
@@ -45,17 +56,6 @@ Applications
 
 Technologies Used:
 <i>React, Express, Node.js, MongoDB, React-Map-Gl, React-Mapbox-Gl-Geocoder, Styled-Components, Webpack, Babel, AWS EC2</i>
-
-**Cryptocurrency Price Tracker**, *Front End Engineer*<br>
-<i>Tracks pricing information for the top 100 cryptocurrencies</i>
-
-* Curated Bitcoin’s last 3 month price history using Chart.js for graph rendering
-* Displayed pricing information for the top 100 cryptocurrencies in the market using CoinCap API
-* Styled app w/ Styled Components & Semantic UI for modern look
-* Deployed service on Heroku for simple viewing
-
-Technologies Used:
-<i>React, Node.js, Express, Semantic UI, Styled-Components, Chart.js, Moment, Webpack, Heroku</i>
 
 **Twitch.tv**, *Front End Engineer*<br>
 <i>App for clients to upload and stream video content</i>
@@ -85,11 +85,12 @@ Professional Experience
 
 **Business Applications Specialist** | *Bellevue School District* | 2018-2019
 
-* Supported district finance operations in enterprise applications, helping manage funds of over $100 million
-* Tested & evaluated new applications & software enhancements
-* Documented technical procedures for end use & IT support
+* Supported district finance operations in enterprise applications, helping manage funds of over $1 Billion
 * Automated finance procedures, increasing efficiency by 5-10% w/ SSMS, Javascript, C#, & VBScript
-* Provided software troubleshooting via database queries, scripting, & server management
+* Provided additional software troubleshooting via database queries, scripting, & server management
+* Evaluated, tested, and implemented new applications & software enhancements
+* Documented technical procedures for end use & IT support
+
 
 **Technology Specialist** | *Bellevue School District* | 2017-2018
 

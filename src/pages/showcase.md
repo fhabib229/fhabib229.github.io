@@ -9,6 +9,25 @@ path: "/showcase"
 
 ---
 
+## Cryptocurrency Price Tracker
+
+[![Crypto App](../images/crypto-sample.png?raw=true "Price Info. Click to view app.")](https://damp-temple-98185.herokuapp.com/)
+
+<i>A cryptocurrency app that charts Bitcoin's price over the last 3 months. Additional features include pricing information for the top 100 cryptocurrencies.</i>
+
+#### Features include:
+
+  - Retrieves, selects and organizes cryptocurrency pricing data using CoinCap API
+
+  - View price, volume, market cap, supply, & change information on the top 100 cryptocurrencies in the market
+
+  - Data rendered in React components, Chart.js graphs and Semantic UI tables
+
+  - Heavy emphasis on visual aesthetics for client using Semantic UI, React, and Styled-Components
+
+  - Deployed to Heroku for simple viewing
+
+
 ## Mtn Maps
 
 [![Mtn Maps](../images/mtn-maps-sample.png?raw=true "Mtn Maps Trail Markers & Popup Info")]()
@@ -26,25 +45,6 @@ When the markers are rendered information about the closest trails can be seen w
   - Trail gain, elevation, rating, and trip reports
 
   - Deployed to EC2 on AWS for future scalability enhancements
-
-
-## Cryptocurrency Price Tracker
-
-[![Crypto App](../images/crypto-sample.png?raw=true "Price Info. Click to view app.")](https://damp-temple-98185.herokuapp.com/)
-
-<i>A cryptocurrency app that charts Bitcoin's price over the last 3 months. Additional features include pricing information for the top 100 cryptocurrencies.</i>
-
-#### Features include:
-
-  - Retrieves, selects and organizes cryptocurrency pricing data using CoinCap API
-
-  - View pricing information on the top 100 cryptocurrencies in the market
-
-  - Data rendered in React components, Chart.js graphs and Semantic UI tables
-
-  - Heavy emphasis on visual aesthetics for client using Semantic UI, React, and Styled-Components
-
-  - Deployed to Heroku for simple viewing
 
 
 ## Twitch.tv

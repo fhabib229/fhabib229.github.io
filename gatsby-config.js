@@ -39,12 +39,12 @@ module.exports = {
         path: '/sdc-engineering-journal',
       },
       {
-        title: 'Front End Capstone Review',
-        path: '/fecconvo',
-      },
-      {
         title: 'SDC: Choosing a Database',
         path: '/sdc-choosing-db',
+      },
+      {
+        title: 'Front End Capstone Review',
+        path: '/fecconvo',
       },
       {
         title: 'FEC: Video Log',
