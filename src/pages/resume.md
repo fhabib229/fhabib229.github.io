@@ -27,7 +27,7 @@ Node.js, Express, PostgreSQL, MySQL, SSMS, MongoDB, Cassandra, ASP.NET, RESTful 
 Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.io
 
 **Deployment**:
-AWS (S3, EC2, ELB, RDS), Docker, Travis CI, Heroku
+AWS (S3, EC2, ELB, RDS, CloudFront, Route 53), Docker, Travis CI, Heroku
 
 **Developer Tools**:
 Git, npm, Yarn, Webpack, Babel, Nginx
