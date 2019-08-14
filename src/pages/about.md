@@ -12,7 +12,7 @@ My name is Faris Habib.  I’ve been coding for 2-3 years and recently I complet
 
 I love the process of solving problems by coming up with new innovations. I also enjoy coding for how you can virtually build anything without needing to worry about the cost of replication.
 
-Currently I live in Seattle, Washington, a city where there are never too many mountains to explore. In the fall I'm planning to move down to California to enjoy more sunshine.
+Currently I live in Seattle, Washington, a city where there are never too many mountains to explore. In the fall I'm planning to move down to California to enjoy more sunshine and mountains.
 
 In my free time I enjoy reading, backpacking, gaming, weightlifting, concerts, and watching corny adventure movies.
 

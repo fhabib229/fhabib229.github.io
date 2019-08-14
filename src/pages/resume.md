@@ -86,7 +86,7 @@ Professional Experience
 **Business Applications Analyst** | *Bellevue School District* | 2018-2019
 
 * Supported district finance operations in enterprise applications, helping manage funds of over $1 Billion
-* Automated finance procedures, increasing efficiency by 5-10% w/ Sql Server, JavaScript, & C# jobs
+* Automated finance procedures, increasing efficiency by 5-10% w/ SQL Server, JavaScript, & C# jobs
 * Provided additional software troubleshooting via database queries, scripting, & server management
 * Evaluated, tested, and implemented new applications & software enhancements
 * Documented technical procedures for end use & IT support
