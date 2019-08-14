@@ -21,7 +21,7 @@ Technical Skills
 JavaScript (ES5 & ES6), HTML5/CSS3, React, Redux, Backbone, Semantic UI, Bootstrap, Styled Components
 
 **Back End**:
-Node.js, Express, PostgreSQL, MySQL, SSMS, MongoDB, Cassandra, ASP.NET, RESTful API Development
+Node.js, Express, PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, ASP.NET, RESTful API Development
 
 **Testing**:
 Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.io
@@ -86,7 +86,7 @@ Professional Experience
 **Business Applications Analyst** | *Bellevue School District* | 2018-2019
 
 * Supported district finance operations in enterprise applications, helping manage funds of over $1 Billion
-* Automated finance procedures, increasing efficiency by 5-10% w/ SSMS, Javascript, & C#
+* Automated finance procedures, increasing efficiency by 5-10% w/ Sql Server, JavaScript, & C# jobs
 * Provided additional software troubleshooting via database queries, scripting, & server management
 * Evaluated, tested, and implemented new applications & software enhancements
 * Documented technical procedures for end use & IT support
