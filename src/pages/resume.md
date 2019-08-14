@@ -18,7 +18,7 @@ Technical Skills
 ---------
 
 **Front End**:
-Javascript (ES5 & ES6), HTML5/CSS3, React, Redux, Backbone, Semantic UI, Bootstrap, Styled Components
+JavaScript (ES5 & ES6), HTML5/CSS3, React, Redux, Backbone, Semantic UI, Bootstrap, Styled Components
 
 **Back End**:
 Node.js, Express, PostgreSQL, MySQL, SSMS, MongoDB, Cassandra, ASP.NET, RESTful API Development
