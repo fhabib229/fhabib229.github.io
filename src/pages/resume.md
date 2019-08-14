@@ -18,10 +18,10 @@ Technical Skills
 ---------
 
 **Front End**:
-JavaScript (ES5 & ES6), HTML5/CSS3, React, Redux, Backbone, Semantic UI, Bootstrap, Styled Components
+JavaScript (ES5 & ES6), HTML5/CSS3, React, Redux, Angular, Backbone, Gatsby, Semantic UI, Bootstrap, Styled Components
 
 **Back End**:
-Node.js, Express, PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, ASP.NET, RESTful API Development
+C#, Node.js, Express, PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, ASP.NET, RESTful API Development
 
 **Testing**:
 Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.io
@@ -44,7 +44,7 @@ Applications
 * Deployed service on Heroku for simple viewing
 
 Technologies Used:
-<i>React, Node.js, Express, Semantic UI, Styled-Components, Chart.js, Moment, Webpack, Heroku</i>
+<i>React, Redux, Node.js, Express, Semantic UI, Styled-Components, Chart.js, Moment, Webpack, Heroku</i>
 
 **Mtn Maps**, *Full Stack Engineer*<br>
 <i>Locates the nearest hiking trails</i>
