@@ -10,7 +10,7 @@ Faris Habib
 
    <b>Email:</b> faris.habib@protonmail.ch<br>
    <b>Phone:</b> 206-954-4609<br>
-   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH+Resume+August+2019.pdf)
+   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH_Resume_August_2019.pdf)
 
 ----
 
@@ -18,7 +18,7 @@ Technical Skills
 ---------
 
 **Front End**:
-JavaScript (ES5 & ES6), HTML5/CSS3, React, Redux, Angular, Backbone, Gatsby, Semantic UI, Bootstrap, Styled Components
+JavaScript (ES5 & ES6), HTML5/CSS3, jQuery, XML, React, Redux, Backbone, Gatsby, Semantic UI, Bootstrap, Styled Components
 
 **Back End**:
 C#, Node.js, Express, PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, ASP.NET, RESTful API Development
@@ -83,37 +83,40 @@ Technologies Used:
 Professional Experience
 ---------
 
-**Business Applications Analyst** | *Bellevue School District* | 2018-2019
+**Business Applications Analyst** | *Bellevue School District* | July 2018 - August 2019
 
 * Supported district finance operations in enterprise applications, helping manage funds of over $1 Billion
-* Automated finance procedures, increasing efficiency by 5-10% w/ SQL Server, JavaScript, & C# jobs
-* Provided additional software troubleshooting via database queries, scripting, & server management
-* Evaluated, tested, and implemented new applications & software enhancements
+* Automated finance procedures, increasing efficiency by 25% w/ SQL Server, JS, C# tasks & forms
+* Provided advanced level problem resolution coordinating w/ Service Center, Applications, & Infrastructure Staff
+* Evaluated, tested, and deployed new applications & software enhancements in multiple environments
 * Documented technical procedures for end use & IT support
 
-
-**Technology Specialist** | *Bellevue School District* | 2017-2018
+**Technology Specialist** | *Bellevue School District* | January 2017 - July 2018
 
 * Provided computer support to staff & 1,000+ students in setup & usage
 * Performed basic hardware repairs & maintenance for more than 2,000 devices
+* Configured & installed computers and software in both stand-alone & networked environments
 
-**Area Manager** | *Play-Well TEKnologies* | 2016-2017
+**Instructor & Area Manager** | *Play-Well TEKnologies* | March 2013 - December 2017
 
+* Educated K-12 students in programming principles using LEGO Robotics & Scratch
 * Scheduled & marketed over 100 after-school & summer programs
 * Developed & maintained relationships with clients in greater Seattle area
 * Trained & managed staff of 8-12 instructors
 
-**Engineering Instructor** | *Play-Well TEKnologies* | 2013-2015
+**Tire Service Technician** | *Discount Tire* | October 2011 - June 2014
 
-* Instructed K-12 students in engineering concepts using LEGO in classrooms of 10-30 students
-* Educated K-12 students in programming principles using LEGO Robotics & Scratch
-* Developed projects & advanced content for robotics curriculum in after-school & summer programs
+* Installed new tires and wheels
+* Performed maintenance on tires, including rotations, balancing, and repairs
+* Conducted basic auto maintenance and cleaning
+* Provided responsive customer service
+
 
 Education
 ---------
 
 **Hack Reactor Galvanize** | *Advanced Software Engineering Immersive Program* | 2019<br>
-**Arizona State University** | *Software Engineering* | 2017-2018<br>
+**Arizona State University** | *Software Engineering* <br>
 **Bellevue College** | *Associate of Arts & Science - Mathematics* | 2017<br>
 
 

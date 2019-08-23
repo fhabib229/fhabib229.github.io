@@ -10,7 +10,7 @@ tags: ["hello"]
 
 My name is Faris Habib.  I’ve been coding for 2-3 years and recently I completed a 9 month, intense, software engineering immersive with Hack Reactor, based in San Francisco.
 
-I love the process of solving problems by coming up with new innovations. I also enjoy coding for how you can virtually build anything without needing to worry about the cost of replication. I’m a software engineer with an unstoppable curiosity for understanding how things work to improve lives. I believe that communication and dedication are essential to grow as an engineer and I enjoy collaborating with my teammates to ensure our clients’ problems are solved.
+I enjoy coding for how you can virtually build anything without needing to worry about the cost of replication. I have an unstoppable curiosity for understanding how things work to improve lives. I believe that communication and dedication are essential to grow as an engineer and I enjoy collaborating with my teammates to ensure our clients’ problems are solved.
 
 Currently I live in Seattle, Washington, a city where there are never too many mountains to explore. In the fall I'm planning to move down to California to enjoy more sunshine and mountains.
 
