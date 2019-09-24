@@ -9,4 +9,3 @@ tags: ["hello", "portfolio"]
 ---
 
 > Please feel free to browse through all the links to my resume, applications portfolio, blog posts, and learn a little about me. This website also has light/dark mode you can toggle for your viewing pleasure.
-skydiv
