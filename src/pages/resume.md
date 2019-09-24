@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2019-08-01"
+date: "2019-09-22"
 author: "Faris Habib"
 path: "/resume"
 ---
@@ -10,7 +10,7 @@ Faris Habib
 
    <b>Email:</b> faris.habib@protonmail.ch<br>
    <b>Phone:</b> 206-954-4609<br>
-   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH_Resume_August_2019.pdf)
+   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH_Resume_092019.pdf)
 
 ----
 
