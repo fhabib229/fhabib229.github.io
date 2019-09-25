@@ -9,7 +9,6 @@ Faris Habib
 ============
 
    <b>Email:</b> faris.habib@protonmail.ch<br>
-   <b>Phone:</b> 206-954-4609<br>
    [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH_Resume_092019.pdf)
 
 ----
@@ -83,7 +82,7 @@ Technologies Used:
 Professional Experience
 ---------
 
-**Business Applications Analyst** | *Bellevue School District* | July 2018 - August 2019
+**Business Applications Analyst** | *Bellevue School District* | July 2018 - September 2019
 
 * Supported district finance operations in enterprise applications, helping manage funds of over $1 Billion
 * Automated finance procedures, increasing efficiency by 25% w/ SQL Server, JS, C# tasks & forms
