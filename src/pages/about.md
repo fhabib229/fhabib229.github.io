@@ -14,4 +14,4 @@ I enjoy coding for how you can virtually build anything without needing to worry
 
 In my free time I enjoy reading, backpacking, gaming, weightlifting, concerts, and watching corny adventure movies.
 
-`youtube: playlist?list=PLz5Br5oLnr4yGR81VqKEC7avCgIIt2Fh2`
+`youtube: watch?v=1N8jKsu1NCE`
