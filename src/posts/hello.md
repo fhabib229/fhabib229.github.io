@@ -2,7 +2,7 @@
 title: "Welcome"
 path: "/hello"
 date: "2019-09-22"
-coverImage: "../images/skydiving.jpg"
+coverImage: "../images/hawaii.jpg"
 author: "Faris Habib"
 excerpt: 'Hello and welcome. Have a look around.'
 tags: ["hello", "portfolio"]

@@ -8,10 +8,8 @@ tags: ["hello"]
 
 ## Hi there
 
-My name is Faris Habib.  I’ve been coding for 2-3 years and recently I completed a 9 month, intense, software engineering immersive with Hack Reactor, based in San Francisco.
+My name is Faris Habib. I enjoy coding for how you can virtually build anything without needing to worry about the cost of replication. I have an unstoppable curiosity for understanding how things work to improve lives. I believe that communication and dedication are essential to grow as an engineer and I enjoy collaborating with my teammates to ensure our clients’ problems are solved.
 
-I enjoy coding for how you can virtually build anything without needing to worry about the cost of replication. I have an unstoppable curiosity for understanding how things work to improve lives. I believe that communication and dedication are essential to grow as an engineer and I enjoy collaborating with my teammates to ensure our clients’ problems are solved.
+In my free time I enjoy working out, hiking, scuba diving, reading, concerts, and gaming.
 
-In my free time I enjoy reading, backpacking, gaming, weightlifting, concerts, and watching corny adventure movies.
-
-`youtube: wOo6VKu5FjU`
+`youtube: UVuS4U22DJo`
