@@ -1,11 +1,9 @@
 ---
 title: "Welcome"
 path: "/hello"
-date: "2019-09-22"
-coverImage: "../images/hawaii.jpg"
+date: "2020-12-18"
+coverImage: "../images/that_impossible_line.jpg"
 author: "Faris Habib"
-excerpt: 'Hello and welcome. Have a look around.'
-tags: ["hello", "portfolio"]
+excerpt: 'Chasing that impossible line'
+tags: ["hello"]
 ---
-
-> Please feel free to browse through all the links to my resume, applications portfolio, blog posts, and learn a little about me. This website also has light/dark mode you can toggle for your viewing pleasure.
