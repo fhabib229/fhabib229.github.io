@@ -16,7 +16,7 @@ Technical Skills
 ---------
 
 **Front End**:
-JavaScript, Typescript, React, Flask,
+JavaScript, Typescript, React, Flask
 
 **Back End**:
 Python, DB Stuff (Postgres, SQL, Mongo, etc), RESTful API Development
