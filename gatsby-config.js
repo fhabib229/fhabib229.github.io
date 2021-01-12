@@ -7,8 +7,8 @@ const postCSSMixins = require('postcss-mixins')
 
 module.exports = {
   siteMetadata: {
-    title: `Faris`,
-    description: `Faris Habib portfolio website v1`,
+    title: `frshbb`,
+    description: `Personal website`,
     copyrights: '',
     author: `Faris Habib`,
     siteUrl: 'https://www.frshbb.com',
@@ -16,7 +16,7 @@ module.exports = {
       src: '',
       alt: '',
     },
-    logoText: 'hello world',
+    logoText: 'fear is the mind-killer',
     defaultTheme: 'dark',
     postsPerPage: 5,
     showMenuItems: 3,
