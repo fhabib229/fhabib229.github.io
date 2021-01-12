@@ -1,6 +1,6 @@
 ---
 title: ""
-date: "2019-09-22"
+date: "2021-01-11"
 author: "Faris Habib"
 path: "/resume"
 ---
@@ -8,8 +8,7 @@ path: "/resume"
 Faris Habib
 ============
 
-   <b>Email:</b> faris.habib@protonmail.ch<br>
-   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/) || [Downloadable Resume](https://s3-us-west-2.amazonaws.com/frshbb.com/FH_Resume_092019.pdf)
+   [Github](https://github.com/fhabib229) || [LinkedIn](https://www.linkedin.com/in/farishabib/)
 
 ----
 
@@ -17,24 +16,24 @@ Technical Skills
 ---------
 
 **Front End**:
-JavaScript (ES5 & ES6), HTML5/CSS3, jQuery, XML, React, Redux, Backbone, Gatsby, Semantic UI, Bootstrap, Styled Components
+JavaScript, Typescript, React, Flask,
 
 **Back End**:
-C#, Node.js, Express, PostgreSQL, MySQL, SQL Server, MongoDB, Cassandra, ASP.NET, RESTful API Development
+Python, DB Stuff (Postgres, SQL, Mongo, etc), RESTful API Development
 
 **Testing**:
-Jasmine, Mocha, Chai, Jest, Enzyme, Supertest, New Relic, Loader.io, Artillery.io
+TDD/BDD for the win
 
 **Deployment**:
-AWS (S3, EC2, ELB, RDS, CloudFront, Route 53), Docker, Travis CI, Heroku
+AWS, Docker, Kubernetes, Jenkins, Heroku
 
 **Developer Tools**:
-Git, npm, Yarn, Webpack, Babel, Nginx
+Git, Vim, bash
 
 Applications
 ---------
 
-**Cryptocurrency Price Tracker**, *Front End Engineer*<br>
+**Cryptocurrency Price Tracker**<br>
 <i>Tracks pricing information for the top 100 cryptocurrencies</i>
 
 * Curated Bitcoin’s last 3 month price history using Chart.js for graph rendering
@@ -45,7 +44,7 @@ Applications
 Technologies Used:
 <i>React, Redux, Node.js, Express, Semantic UI, Styled-Components, Chart.js, Moment, Webpack, Heroku</i>
 
-**Mtn Maps**, *Full Stack Engineer*<br>
+**Mtn Maps**<br>
 <i>Locates the nearest hiking trails</i>
 
 * Architected web mapping interface w/ MapBox API & MERN stack for intuitive experience
@@ -56,7 +55,7 @@ Technologies Used:
 Technologies Used:
 <i>React, Express, Node.js, MongoDB, React-Map-Gl, React-Mapbox-Gl-Geocoder, Styled-Components, Webpack, Babel, AWS EC2</i>
 
-**Twitch.tv**, *Front End Engineer*<br>
+**Twitch.tv**<br>
 <i>App for clients to upload and stream video content</i>
 
 * Designed video player & collection pages in React & Styled-Components to clone Twitch design
@@ -68,7 +67,7 @@ Technologies Used:
 Technologies Used:
 <i>React, Node.js, Express, PostgreSQL, Knex.Js, Bookshelf.js Styled-Components, Webpack, Travis CI, Enzyme, Jest, AWS ELB, AWS RDS, AWS S3, Supertest</i>
 
-**ESPN**, *Back End Engineer*<br>
+**ESPN**<br>
 <i>NFL Team Page of the LA Rams</i>
 
 * Redesigned app to accept over 40 million records in PostgreSQL & Cassandra in under 15 min.
@@ -81,6 +80,9 @@ Technologies Used:
 
 Professional Experience
 ---------
+
+**Software Engineer** | *Spring Labs* | October 2019 - Present
+
 
 **Business Applications Analyst** | *Bellevue School District* | July 2018 - September 2019
 
@@ -114,9 +116,7 @@ Professional Experience
 Education
 ---------
 
-**Hack Reactor Galvanize** | *Advanced Software Engineering Immersive Program* | 2019<br>
-**Arizona State University** | *Software Engineering* <br>
-**Bellevue College** | *Associate of Arts & Science - Mathematics* | 2017<br>
+Mostly self-taught
 
 
 
