@@ -12,7 +12,7 @@ const Footer = ({ copyrights }) => (
     ) : (
       <>
         <span className="footerCopyrights">
-          © 2020 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
+          © 2021 Built with <a href="https://www.gatsbyjs.org">Gatsby</a>
         </span>
         <span className="footerCopyrights">
           Site created by <a href="https://github.com/fhabib229/portfolio">Faris Habib</a>
