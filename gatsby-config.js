@@ -109,7 +109,7 @@ module.exports = {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
-          "gatsby-remark-embed-spotify",
+          'gatsby-remark-embed-spotify',
           {
             resolve: 'gatsby-remark-embed-video',
             options: {
@@ -146,7 +146,7 @@ module.exports = {
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
-        icon: `src/images/Izzet_Logo.png`,
+        icon: `src/images/R.png`,
       },
     },
     {
