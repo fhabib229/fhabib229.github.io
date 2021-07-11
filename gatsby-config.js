@@ -146,7 +146,7 @@ module.exports = {
         background_color: `#292a2d`,
         theme_color: `#292a2d`,
         display: `minimal-ui`,
-        icon: `src/images/B.png`,
+        icon: `src/images/U.png`,
       },
     },
     {
